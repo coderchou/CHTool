@@ -1,0 +1,6 @@
+framework module CHTool {
+  umbrella header "CHTool-umbrella.h"
+
+  export *
+  module * { export * }
+}

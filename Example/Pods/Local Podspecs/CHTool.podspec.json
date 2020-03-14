@@ -1,0 +1,22 @@
+{
+  "name": "CHTool",
+  "version": "0.1.0",
+  "summary": "A short description of CHTool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/coderchou/CHTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "coderchou": "coderchou@163.com"
+  },
+  "source": {
+    "git": "https://github.com/coderchou/CHTool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CHTool/Classes/**/*"
+}
