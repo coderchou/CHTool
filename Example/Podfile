@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'CHTool_Example' do
+  pod 'CHTool', :path => '../'
+
+  target 'CHTool_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
